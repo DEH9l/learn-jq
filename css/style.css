@@ -1,0 +1,12 @@
+.pane {
+  width: 600px;
+  margin: auto;
+  background-color: aqua;
+  position: relative; }
+
+.delete {
+  position: absolute;
+  top: 2%;
+  right: 2%; }
+
+/*# sourceMappingURL=style.css.map */
