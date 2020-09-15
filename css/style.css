@@ -4,4 +4,12 @@
   background-color: yellow;
   position: relative; }
 
+.shkot:hover p {
+  display: block; }
+.shkot p {
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%; }
+
 /*# sourceMappingURL=style.css.map */

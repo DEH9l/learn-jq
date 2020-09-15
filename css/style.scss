@@ -4,3 +4,18 @@
   background-color: yellow;
   position: relative;
 }
+
+.shkot{
+  &:hover{
+    p{
+      display: block;
+    }
+  }
+  p{
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: ;
+  }
+}
